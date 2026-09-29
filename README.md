@@ -11,5 +11,5 @@ https://run.pavlovia.org/neuromadlab/influenca-demo/
    - Creates run and trial tables with ML estimates in folder ```Tables```
    - Script loops through all files and applies functions from folder ```functions```
 3. ```Influenca_demo_plots.R```
-   - Creates plots for individual IDs and the whole sample in folder ```plots```
    - Type an ID in at the top of the script
+   - Creates plots for individual IDs and the whole sample in folder ```plots```
