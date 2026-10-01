@@ -1,0 +1,6 @@
+﻿Browser: ,participant,date,expName,psychopyVersion,OS,frameRate,initializing.started,initializing.stopped,chooseLanguage.started,chooseLanguage.stopped,languageClickedButton.started,languageClickedButton.stopped,chooseTheLanguage.thisRepN,chooseTheLanguage.thisTrialN,chooseTheLanguage.thisN,chooseTheLanguage.thisIndex,chooseTheLanguage.ran,textAssignment.started,textAssignment.stopped,timingIssue.started,timingIssue.stopped,sendingMessage.thisRepN,sendingMessage.thisTrialN,sendingMessage.thisN,sendingMessage.thisIndex,sendingMessage.ran,sendingMessage.order
+Chrome,212,2026-09-30_12h17.13.444,Influenca_demo,2025.2.4,MacIntel,60.24096386,,,,,,,,,,,,,,,,,,,,,
+,212,2026-09-30_12h17.13.444,Influenca_demo,2025.2.4,MacIntel,60.24096386,0.0006,0.0006,,,,,,,,,,,,,,,,,,,
+,212,2026-09-30_12h17.13.444,Influenca_demo,2025.2.4,MacIntel,60.24096386,,,0.0014,0.71,0.7104,0.8265,0,0,0,0,1,,,,,,,,,,
+,212,2026-09-30_12h17.13.444,Influenca_demo,2025.2.4,MacIntel,60.24096386,,,,,,,,,,,,0.8268,0.8268,,,,,,,,
+,212,2026-09-30_12h17.13.444,Influenca_demo,2025.2.4,MacIntel,60.24096386,,,,,,,,,,,,,,0.8273,5.8269,0,0,0,0,1,0
